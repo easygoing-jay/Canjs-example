@@ -1,4 +1,4 @@
-Backbonejs example
+Canjs example
 =========
 
-Sample backbonejs example 
+Canjs example
