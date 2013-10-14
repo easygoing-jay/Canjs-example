@@ -1,4 +1,4 @@
 Canjs example
 =========
 
-Canjs example
+Canjs example - Coming very soon.
